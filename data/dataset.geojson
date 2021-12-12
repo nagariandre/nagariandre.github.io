@@ -1,0 +1,929 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.32,
+          -9.86
+        ]
+      },
+      "properties": {
+        "Date": "2/12/2016",
+        "Time": "10:02:25.952 UTC",
+        "Latitude": -9.86,
+        "Longitude": 119.32,
+        "Depth": "54 km",
+        "Magnitude": 6.2,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumba Barat NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.61,
+          -9.17
+        ]
+      },
+      "properties": {
+        "Date": "12/29/2016",
+        "Time": "22:30:20.063 UTC",
+        "Latitude": -9.17,
+        "Longitude": 118.61,
+        "Depth": "100 km",
+        "Magnitude": 6.5,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTB",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.24,
+          -8.88
+        ]
+      },
+      "properties": {
+        "Date": "3/22/2017",
+        "Time": "23:10:27 UTC",
+        "Latitude": -8.88,
+        "Longitude": 115.24,
+        "Depth": "117 km",
+        "Magnitude": 6.4,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Bali Selatan Bali",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5,
+          -8
+        ]
+      },
+      "properties": {
+        "Date": "7/28/2018",
+        "Time": "22:47:38.491 UTC",
+        "Latitude": -8,
+        "Longitude": 116.5,
+        "Depth": "13 km",
+        "Magnitude": 6.4,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Lombok NTB",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47,
+          -8
+        ]
+      },
+      "properties": {
+        "Date": "8/5/2018",
+        "Time": "11:46:37.363 UTC",
+        "Latitude": -8,
+        "Longitude": 116.47,
+        "Depth": "32 km",
+        "Magnitude": 6.8,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Lombok NTB",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8,
+          -7.43
+        ]
+      },
+      "properties": {
+        "Date": "8/17/2018",
+        "Time": "15:35:02.197 UTC",
+        "Latitude": -7.43,
+        "Longitude": 119.8,
+        "Depth": "541 km",
+        "Magnitude": 6.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Florea NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59,
+          -8.44
+        ]
+      },
+      "properties": {
+        "Date": "8/19/2018",
+        "Time": "04:10:23.215 UTC",
+        "Latitude": -8.44,
+        "Longitude": 116.59,
+        "Depth": "18 km",
+        "Magnitude": 6.2,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7,
+          -8.37
+        ]
+      },
+      "properties": {
+        "Date": "8/19/2018",
+        "Time": "14:56:27.086 UTC",
+        "Latitude": -8.37,
+        "Longitude": 116.7,
+        "Depth": "18 km",
+        "Magnitude": 6.9,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.05,
+          -10.4
+        ]
+      },
+      "properties": {
+        "Date": "1/21/2019",
+        "Time": "23:59:25.057 UTC",
+        "Latitude": -10.4,
+        "Longitude": 119.05,
+        "Depth": "46 km",
+        "Magnitude": 6,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumba NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.98,
+          -10.39
+        ]
+      },
+      "properties": {
+        "Date": "1/22/2019",
+        "Time": "05:10:03.838 UTC",
+        "Latitude": -10.39,
+        "Longitude": 118.98,
+        "Depth": "19 km",
+        "Magnitude": 6.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8,
+          1.38
+        ]
+      },
+      "properties": {
+        "Date": "8/13/2020",
+        "Time": "09:51:57.158 UTC",
+        "Latitude": 1.38,
+        "Longitude": 111.8,
+        "Depth": "10 km",
+        "Magnitude": 6.2,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Borneo Kalimantan",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          -7.32
+        ]
+      },
+      "properties": {
+        "Date": "11/28/2020",
+        "Time": "06:54:32.089 UTC",
+        "Latitude": -7.32,
+        "Longitude": 120.26,
+        "Depth": "20 km",
+        "Magnitude": 6,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Flores NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.16,
+          -4.98
+        ]
+      },
+      "properties": {
+        "Date": "10/19/2016",
+        "Time": "00:26:00.311",
+        "Latitude": -4.98,
+        "Longitude": 108.16,
+        "Depth": "614 km",
+        "Magnitude": 6.3,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Laut Jawa",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.1,
+          -7.73
+        ]
+      },
+      "properties": {
+        "Date": "12/15/2017",
+        "Time": "16:47:58.325",
+        "Latitude": -7.73,
+        "Longitude": 108.1,
+        "Depth": "115 km",
+        "Magnitude": 6.5,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Pulau Jawa",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.04,
+          -7.13
+        ]
+      },
+      "properties": {
+        "Date": "1/23/2018",
+        "Time": "06:34:54.390",
+        "Latitude": -7.13,
+        "Longitude": 106.04,
+        "Depth": "46 km",
+        "Magnitude": 6.1,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Banten",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.84,
+          -6.1
+        ]
+      },
+      "properties": {
+        "Date": "9/19/2019",
+        "Time": "07:06:33.660",
+        "Latitude": -6.1,
+        "Longitude": 111.84,
+        "Depth": "621 km",
+        "Magnitude": 6.1,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Pulau Jawa",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.05,
+          -6.56
+        ]
+      },
+      "properties": {
+        "Date": "2/5/2020",
+        "Time": "18:12:35.205",
+        "Latitude": -6.56,
+        "Longitude": 113.05,
+        "Depth": "641 km",
+        "Magnitude": 6.2,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Pulau Jawa",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.63,
+          -5.73
+        ]
+      },
+      "properties": {
+        "Date": "7/6/2020",
+        "Time": "22:54:46.995",
+        "Latitude": -5.73,
+        "Longitude": 110.63,
+        "Depth": "537 km",
+        "Magnitude": 6.1,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Laut Jawa",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.31,
+          -4.92
+        ]
+      },
+      "properties": {
+        "Date": "3/2/2016",
+        "Time": "12:49:47.458",
+        "Latitude": -4.92,
+        "Longitude": 94.31,
+        "Depth": "19 km",
+        "Magnitude": 7.7,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Barat Daya Sumatra",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.23,
+          5.27
+        ]
+      },
+      "properties": {
+        "Date": "12/6/2016",
+        "Time": "22:03:34.280",
+        "Latitude": 5.27,
+        "Longitude": 96.23,
+        "Depth": "12 km",
+        "Magnitude": 6.5,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumatra Utara",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7,
+          -3.68
+        ]
+      },
+      "properties": {
+        "Date": "8/13/2017",
+        "Time": "03:08:13.468",
+        "Latitude": -3.68,
+        "Longitude": 101.7,
+        "Depth": "58 km",
+        "Magnitude": 6.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumatra Selatan",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.74,
+          -1.24
+        ]
+      },
+      "properties": {
+        "Date": "8/31/2017",
+        "Time": "17:06:56.687",
+        "Latitude": -1.24,
+        "Longitude": 99.74,
+        "Depth": "54 km",
+        "Magnitude": 6,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumatra Selatan",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.06,
+          -9.45
+        ]
+      },
+      "properties": {
+        "Date": "2/14/2018",
+        "Time": "06:56:38.252",
+        "Latitude": -9.45,
+        "Longitude": 99.06,
+        "Depth": "218 km",
+        "Magnitude": 6.1,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Sumatra Selatan",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.79,
+          -7.27
+        ]
+      },
+      "properties": {
+        "Date": "8/2/2019",
+        "Time": "12:03:26.642",
+        "Latitude": -7.27,
+        "Longitude": 104.79,
+        "Depth": "55 km",
+        "Magnitude": 6.9,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Barat Daya Sumatra",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.03,
+          -2.88
+        ]
+      },
+      "properties": {
+        "Date": "2/2/2019",
+        "Time": "09:27:34.840",
+        "Latitude": -2.88,
+        "Longitude": 100.03,
+        "Depth": "20 km",
+        "Magnitude": 6.1,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumatra Selatan",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.97,
+          -4.45
+        ]
+      },
+      "properties": {
+        "Date": "8/18/2020",
+        "Time": "22:29:23.567",
+        "Latitude": -4.45,
+        "Longitude": 100.97,
+        "Depth": "23 km",
+        "Magnitude": 7.1,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Barat Daya Sumatra",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.97,
+          -4.44
+        ]
+      },
+      "properties": {
+        "Date": "8/18/2020",
+        "Time": "22:23:59.559",
+        "Latitude": -4.44,
+        "Longitude": 100.97,
+        "Depth": "102 km",
+        "Magnitude": 6.7,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Barat Daya Sumatra",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.88,
+          3.78
+        ]
+      },
+      "properties": {
+        "Date": "11/1/2016",
+        "Time": "16:38:11.078 WITA",
+        "Latitude": 3.78,
+        "Longitude": 126.88,
+        "Depth": "61 km",
+        "Magnitude": 6.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Pulau Talaud, Sulawesi Utara",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.07,
+          0.79
+        ]
+      },
+      "properties": {
+        "Date": "2/16/2016",
+        "Time": "17:26:03.409 WITA",
+        "Latitude": 0.79,
+        "Longitude": 129.07,
+        "Depth": "10 km",
+        "Magnitude": 6.1,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Halmahera, Maluku Utara",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.58,
+          4.39
+        ]
+      },
+      "properties": {
+        "Date": "10/1/2017",
+        "Time": "06:13:47.603 WITA",
+        "Latitude": 4.39,
+        "Longitude": 122.58,
+        "Depth": "629 km",
+        "Magnitude": 7.2,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Laut Sulawesi",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89,
+          0.2
+        ]
+      },
+      "properties": {
+        "Date": "9/28/2018",
+        "Time": "18:02:44.352 WITA",
+        "Latitude": 0.2,
+        "Longitude": 119.89,
+        "Depth": "10 km",
+        "Magnitude": 7.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sulawesi Utara",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.05,
+          0.56
+        ]
+      },
+      "properties": {
+        "Date": "7/14/2019",
+        "Time": "17:10:51.728 WITA",
+        "Latitude": 0.56,
+        "Longitude": 128.05,
+        "Depth": "29 km",
+        "Magnitude": 7.3,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Halmahera, Maluku Utara",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.34,
+          3.45
+        ]
+      },
+      "properties": {
+        "Date": "9/26/2019",
+        "Time": "07:46:45.178 WITA",
+        "Latitude": 3.45,
+        "Longitude": 128.34,
+        "Depth": "10 km",
+        "Magnitude": 6.5,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Maluku",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.61,
+          -9.17
+        ]
+      },
+      "properties": {
+        "Date": "29/12/2016",
+        "Time": "22:30:20.063 UTC",
+        "Latitude": -9.17,
+        "Longitude": 118.61,
+        "Depth": "100 km",
+        "Magnitude": 6.5,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTB",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.24,
+          -8.88
+        ]
+      },
+      "properties": {
+        "Date": "3/22/17",
+        "Time": "23:10:27 UTC",
+        "Latitude": -8.88,
+        "Longitude": 115.24,
+        "Depth": "117 km",
+        "Magnitude": 6.4,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Bali Selatan Bali",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5,
+          -8
+        ]
+      },
+      "properties": {
+        "Date": "7/28/18",
+        "Time": "22:47:38.491 UTC",
+        "Latitude": -8,
+        "Longitude": 116.5,
+        "Depth": "13 km",
+        "Magnitude": 6.4,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Lombok NTB",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47,
+          -8
+        ]
+      },
+      "properties": {
+        "Date": "8/5/18",
+        "Time": "11:46:37.363 UTC",
+        "Latitude": -8,
+        "Longitude": 116.47,
+        "Depth": "32 km",
+        "Magnitude": 6.8,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Lombok NTB",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8,
+          -7.43
+        ]
+      },
+      "properties": {
+        "Date": "8/17/18",
+        "Time": "15:35:02.197 UTC",
+        "Latitude": -7.43,
+        "Longitude": 119.8,
+        "Depth": "541 km",
+        "Magnitude": 6.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Florea NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59,
+          -8.44
+        ]
+      },
+      "properties": {
+        "Date": "8/19/18",
+        "Time": "04:10:23.215 UTC",
+        "Latitude": -8.44,
+        "Longitude": 116.59,
+        "Depth": "18 km",
+        "Magnitude": 6.2,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7,
+          -8.37
+        ]
+      },
+      "properties": {
+        "Date": "8/19/18",
+        "Time": "14:56:27.086 UTC",
+        "Latitude": -8.37,
+        "Longitude": 116.7,
+        "Depth": "18 km",
+        "Magnitude": 6.9,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.05,
+          -10.4
+        ]
+      },
+      "properties": {
+        "Date": "1/21/19",
+        "Time": "23:59:25.057 UTC",
+        "Latitude": -10.4,
+        "Longitude": 119.05,
+        "Depth": "46 km",
+        "Magnitude": 6,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumba NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.98,
+          -10.39
+        ]
+      },
+      "properties": {
+        "Date": "1/22/19",
+        "Time": "05:10:03.838 UTC",
+        "Latitude": -10.39,
+        "Longitude": 118.98,
+        "Depth": "19 km",
+        "Magnitude": 6.4,
+        "MT": "Berpotensi Tsunami",
+        "Region": "Sumbawa NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8,
+          1.38
+        ]
+      },
+      "properties": {
+        "Date": "8/13/20",
+        "Time": "09:51:57.158 UTC",
+        "Latitude": 1.38,
+        "Longitude": 111.8,
+        "Depth": "10 km",
+        "Magnitude": 6.2,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Borneo Kalimantan",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26,
+          -7.32
+        ]
+      },
+      "properties": {
+        "Date": "28/11/2020",
+        "Time": "06:54:32.089 UTC",
+        "Latitude": -7.32,
+        "Longitude": 120.26,
+        "Depth": "20 km",
+        "Magnitude": 6,
+        "MT": "Tidak Berpotensi Tsunami",
+        "Region": "Flores NTT",
+        "Reference": "http://repogempa.bmkg.go.id/repo_new/"
+      }
+    }
+  ]
+}

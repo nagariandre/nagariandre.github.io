@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Peta Sebaran Potensi Gempa di Indonesia</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin="" />
+    <link rel="stylesheet" href="css/Leaflet.Coordinates-0.1.5.css" />
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin="" defer></script>
+    <script src="js/Leaflet.Coordinates-0.1.5.min.js" defer></script>
+    <script src="js/app.js" defer></script>
+    <link rel="stylesheet" href="/css/styles.min.css">
+  </head>
+
+  <body>
+    <header class="text-gray-600 body-font">
+      <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+        <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="index.html">
+          <img src="ui.png" alt="Makara" class="w-16 h-16">
+          <span class="ml-3 text-xl">Geologi<br />Universitas Indonesia</span>
+        </a>
+        <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+          <a class="mr-5 hover:text-gray-900" href="#">Lihat Peta</a>
+          <a class="mr-5 hover:text-gray-900" href="index.html#pelajari">Pelajari</a>
+          <a class="mr-5 hover:text-gray-900" href="index.html#referensi">Referensi</a>
+          <a class="mr-5 hover:text-gray-900" href="index.html#anggota">Anggota</a>
+        </nav>
+      </div>
+    </header>
+
+    <div id="map-container" class="w-full min-h-screen"></div>
+  </body>
+
+</html>
